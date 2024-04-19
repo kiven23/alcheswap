@@ -34,4 +34,10 @@ export { default as SwapVertIcon } from "./Icons/SwapVert";
 export { default as SyncAltIcon } from "./Icons/SyncAlt";
 export { default as WarningIcon } from "./Icons/Warning";
 export { default as Svg } from "./Svg";
+export { default as GitHubIcon } from "./Icons/Github";
+export { default as TelegramIcon } from "./Icons/Telegram";
+export { default as DiscordIcon } from "./Icons/Discord";
+export { default as AlcheCoin } from "./Icons/AlcheCoin";
+
+
 export type { SvgProps } from "./types";
